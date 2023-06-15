@@ -117,3 +117,19 @@ variable "operator_email" {
     type           = string
 
 }
+
+#auto scaling group variable
+variable "launch_template_name" {
+    default        = "dev-launch-template"
+    description    = "name of the launch template"
+    type           = string
+
+}
+
+#AMI variable 
+variable "launch_template_name" {
+    default        = "dev-launch-template"
+    description    = "name of the launch template"
+    type           = string
+
+}
