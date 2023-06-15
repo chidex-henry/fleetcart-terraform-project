@@ -125,11 +125,3 @@ variable "launch_template_name" {
     type           = string
 
 }
-
-#AMI variable 
-variable "launch_template_name" {
-    default        = "dev-launch-template"
-    description    = "name of the launch template"
-    type           = string
-
-}
