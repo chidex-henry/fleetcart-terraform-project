@@ -109,3 +109,11 @@ variable "ssl_certificate_arn" {
     type           = string
 
 }
+
+#sns topic variable 
+variable "operator_email" {
+    default        = "chidex.ukaegbu4real@gmail.com"
+    description    = "a valid email address"
+    type           = string
+
+}
