@@ -3,6 +3,9 @@
 
 I hosted and deployed a dynamic e-commerce website on AWS with Terraform. Terraform is an open-source infrastructure as code (IaC) tool users use to create, change, and improve infrastructure. Using the Reference Architecture below, I created AWS services using Terraform. The AWS services created in this project include VPC with public and private subnets, NAT gateways, security groups, Relation Database Services (RDS), ALB, Simple Notification Service (SNS), ASG, and Route 53.
 
+![1 Terraform-Ecommerce](https://github.com/chidex-henry/fleetcart-terraform-project/assets/77998377/abd2b49a-92c0-47bb-934f-5715d97ab387)
+
+
 According to the reference architecture, the deployed processes and stages are summarized as follows: 
 
 1.	GitHub Repository to store terraform infrastructures was created and cloned to my desktop. Changes pushed from the local Repository to the remote repository 
