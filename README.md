@@ -1,4 +1,5 @@
-# terraform-projects
+# Host a Dynamic E-commerce Website on AWS with Terraform (FleetCart Store)
+
 
 I hosted and deployed a dynamic e-commerce website on AWS with Terraform. Terraform is an open-source infrastructure as code (IaC) tool users use to create, change, and improve infrastructure. Using the Reference Architecture below, I created AWS services using Terraform. The AWS services created in this project include VPC with public and private subnets, NAT gateways, security groups, Relation Database Services (RDS), ALB, Simple Notification Service (SNS), ASG, and Route 53.
 
