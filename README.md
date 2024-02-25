@@ -35,7 +35,9 @@ According to the reference architecture, the deployed processes and stages are s
 
 
 
-Challenges and Approaches: Building the arguments in each AWS service was a very big challenge. Trying to replicate how these AWS services were built in Terraform file structure. I made sure I understood how they are created first in the management console before writing them in terraform files. In other words, I create the resources first in the management console and then replicate them in the Terraform file with the help of the Terraform documentation 
+**Challenges and Approaches:** 
+
+- Building the arguments in each AWS service was a very big challenge. Trying to replicate how these AWS services were built in Terraform file structure. I made sure I understood how they are created first in the management console before writing them in terraform files. In other words, I create the resources first in the management console and then replicate them in the Terraform file with the help of the Terraform documentation 
 
 
 
